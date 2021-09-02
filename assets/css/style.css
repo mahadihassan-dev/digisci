@@ -566,6 +566,16 @@ h3.client-name {
 /* ====Client Profile Section End==== */
 
 
+/* ====Our Service Card Section Start==== */
+
+.service_card {
+    position: relative;
+}
+
+
+/* ====Our Service Card Section End==== */
+
+
 /* ====Footer Section Start=== */
 
 .footer-main {
