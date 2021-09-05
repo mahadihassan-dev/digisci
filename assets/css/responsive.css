@@ -51,6 +51,15 @@ Apple Iphone Device Responsive CSS Start
         width: 215px;
         opacity: .3;
     }
+    .service_card {
+        width: 315px;
+    }
+    .mx320px-mt-60 {
+        margin-top: 60px!important
+    }
+    .mx320px-mt-4 {
+        margin-top: 1.5rem!important
+    }
 }
 
 
